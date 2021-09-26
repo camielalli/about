@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamylla-cl
+- 👋 Hi, I’m @camielalli
 - 👀 I’m interested in Linguistics, Cognition and Cultural Evolution.
 - 🌱 I’m currently learning computer modeling, machine learning and statistics.
 - 💞️ I’m looking to collaborate on any topic related to my interests :)
