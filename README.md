@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cammy
-- 👀 I’m interested in Linguistics, Conversation Design, and Cognition.
+- 👀 I’m interested in Linguistics, Conversation Design, Artificial Intelligence, and Cognition.
 - 🌱 I’m currently learning computer modeling, machine learning and statistics.
 - 💞️ I’m looking to collaborate on any topic related to my interests :)
 - 📫 How to reach me: you can email me here camilla.lalli@gmail.com or find my twitter here https://twitter.com/CammyLalliParra
