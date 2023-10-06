@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cammylalliparra
+- 👋 Hi, I’m Cammy
 - 👀 I’m interested in Linguistics, Conversation Design, and Cognition.
 - 🌱 I’m currently learning computer modeling, machine learning and statistics.
 - 💞️ I’m looking to collaborate on any topic related to my interests :)
